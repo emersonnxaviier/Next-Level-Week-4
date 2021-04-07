@@ -37,6 +37,3 @@ describe("Users", () => {
 
 });
 
-
-
-// npm install -g win-node-env  --> se der erro nas variaveis de ambiente no windows.
